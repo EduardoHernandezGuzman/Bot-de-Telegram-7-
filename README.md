@@ -6,6 +6,10 @@ Este proyecto consiste en un bot básico para Telegram desarrollado en Python ut
 
 Este bot de Telegram ofrece una variedad de funcionalidades entretenidas, incluyendo contar chistes, resolver adivinanzas, generar excusas divertidas con imágenes y crear contraseñas aleatorias. El bot responde a diferentes comandos enviados por los usuarios, interactuando de manera amigable y divertida.
 
+## Usar el Bot
+
+Puedes interactuar con el bot directamente en Telegram utilizando el siguiente enlace: [Iniciar Bot](https://t.me/proyectoedobot).
+
 ## Configuración
 
 Sigue estos pasos para configurar y ejecutar el bot en tu entorno local:
