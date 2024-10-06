@@ -8,7 +8,7 @@ Este bot de Telegram ofrece una variedad de funcionalidades entretenidas, incluy
 
 ## Usar el Bot
 
-Puedes interactuar con el bot directamente en Telegram utilizando el siguiente enlace: [Iniciar Bot](https://t.me/proyectoedobot).
+Puedes interactuar con el bot directamente en Telegram utilizando el siguiente enlace: [@proyectoedobot](https://t.me/proyectoedobot).
 
 ## Configuración
 
